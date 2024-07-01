@@ -17,7 +17,8 @@ A curated list of excellent Revm-related resources.
 ## Tools
 - [**Foundry:**](https://github.com/foundry-rs/foundry) A portable and modular toolkit for rapid Ethereum application development in Rust.
 - [**Hardhat:**](https://github.com/NomicFoundation/hardhat) A comprehensive development environment for compiling, deploying, testing, and debugging Ethereum software.
-
+- [**Arbiter:**](https://github.com/primitivefinance/arbiter) smart-contract simulation.
+- 
 ## Frameworks and Libraries
 - [**revm-inspectors:**](https://github.com/paradigmxyz/revm-inspectors) Hooks for EVM execution.
 - [**eip3074-instructions:**](https://github.com/paradigmxyz/eip3074-instructions) Implements custom instructions for AUTH and AUTHCALL operations.
