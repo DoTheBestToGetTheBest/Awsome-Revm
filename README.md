@@ -1,6 +1,6 @@
 # awesome-revm
 
-A curated list of excellent Revm-related resources.
+A curated list of excellent Revm-related resources. Feel free to contribute to this list!
 
 ## Repositories
 - [**Main Repo:** Revm Repository](https://github.com/bluealloy/revm) - The central code repository for Revm.
